@@ -5,7 +5,7 @@ For my internship at PW Skills, I worked on analyzing Amazon sales data. The goa
 
 ## 1. Data Collection:
 
-. Gathered sales data from Website into power bi desktop.
+. The Amazon sales dataset was provided by PW Skills for the project.
 
 ## 2. Daat Cleaning & Preprocessing:
    
@@ -15,9 +15,9 @@ For my internship at PW Skills, I worked on analyzing Amazon sales data. The goa
 
 . Check the Data Types For each Columns.
 
-. Add extra Columns like Month , Year, DeliveryDays & IsValid For better Analysis.
+. Add extra Column like Month , Year, DeliveryDays & IsValid For better Analysis.
 
-. Create new measurs like Avg Delivery Days , Profit Mrgins, Average Revenue Per Unit Sold.
+. Create new measures like Avg Delivery Days , Profit Margin, Average Revenue Per Unit Sold.
 
 ## 3.  Exploratory Data Analysis (EDA):
  
