@@ -13,7 +13,7 @@ For my internship at PW Skills, I worked on analyzing Amazon sales data. The goa
 
 . Correct the format of Order Date & Ship Date.
 
-. Check the Data Types For each Columns.
+. Check the Data Types For each Column.
 
 . Add extra Column like Month , Year, DeliveryDays & IsValid For better Analysis.
 
